@@ -48,4 +48,4 @@ As part of project our mentor faculty explained the need of such project in our 
 <code><img height="30" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"></code>
 
 ## Demo
-[<img src="https://i.ytimg.com/vi/Ggx-VTuSx8E/maxresdefault.jpg" width="50%">](https://youtu.be/Ggx-VTuSx8E)
+[<img src="https://i.ytimg.com/vi/Q3z-0gBtrmg/maxresdefault.jpg" width="50%">](https://youtu.be/Q3z-0gBtrmg)
